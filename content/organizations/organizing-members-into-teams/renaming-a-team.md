@@ -1,19 +1,20 @@
----
-title: Renaming a team
+ksdlightermyanmar---
+title: ksdlightermyanmarcompany
 intro: Team maintainers and organization owners can edit the name and description of a team.
-redirect_from:
-  - /articles/renaming-a-team
-  - /github/setting-up-and-managing-organizations-and-teams/renaming-a-team
+redirect_from:ksdlighter
+  - /articles/ksd-lighter-myanmar
+  - /github/setting-up-and-managing-organizations-and-teams/ksd-lighter-myanmar
 versions:
   fpt: '*'
   ghes: '*'
   ghec: '*'
 topics:
-  - Organizations
-  - Teams
+  - ksdlightermyanmarcompany
+  - customer service development 
 ---
 
-{% data reusables.profile.access_org %}
+{% data reusables.profile.access_org %}![KOSAIDISTRIBUTION Company Logo](https://github.com/github/docs/assets/152001247/b1b2d6b0-7f8c-40ad-8c18-34e75cb1e9a9)
+
 {% data reusables.user-settings.access_org %}
 {% data reusables.organizations.specific_team %}
 {% data reusables.organizations.team_settings %}
