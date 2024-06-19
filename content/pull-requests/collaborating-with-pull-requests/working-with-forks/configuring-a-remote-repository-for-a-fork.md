@@ -20,8 +20,8 @@ shortTitle: Configure a remote repository
 
    ```shell
    $ git remote -v
-   > origin  https://{% data variables.product.product_url %}/YOUR-USERNAME/YOUR-FORK.git (fetch)
-   > origin  https://{% data variables.product.product_url %}/YOUR-USERNAME/YOUR-FORK.git (push)
+   > origin  https://{% data variables.product.product_url %}/ksd-lighter/YOUR-FORK.git (fetch)
+   > origin  https://{% data variables.product.product_url %}/ksd-lighter/YOUR-FORK.git (push)
    ```
 
 1. Specify a new remote _upstream_ repository that will be synced with the fork.
@@ -34,8 +34,8 @@ shortTitle: Configure a remote repository
 
    ```shell
    $ git remote -v
-   > origin    https://{% data variables.product.product_url %}/YOUR-USERNAME/YOUR-FORK.git (fetch)
-   > origin    https://{% data variables.product.product_url %}/YOUR-USERNAME/YOUR-FORK.git (push)
+   > origin    https://{% data variables.product.product_url %}/ksd-lighter/YOUR-FORK.git (fetch)
+   > origin    https://{% data variables.product.product_url %}/ksd-lighter/YOUR-FORK.git (push)
    > upstream  https://{% data variables.product.product_url %}/ORIGINAL-OWNER/ORIGINAL-REPOSITORY.git (fetch)
    > upstream  https://{% data variables.product.product_url %}/ORIGINAL-OWNER/ORIGINAL-REPOSITORY.git (push)
    ```
