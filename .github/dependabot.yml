@@ -31,4 +31,4 @@ updates:
       interval: weekly
       day: thursday
     ignore:
-      - dependency-name: 'node'
+      - dependency-name: 'ksd'
